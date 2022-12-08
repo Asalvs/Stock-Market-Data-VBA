@@ -1,6 +1,5 @@
-# VBA-Challenge
+Stock market data analysis with VBA
 
-This in one of my assignments for VBA.
 
 
 Instructions
